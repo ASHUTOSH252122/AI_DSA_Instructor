@@ -1,3 +1,5 @@
+<img width="1918" height="966" alt="chatbot png" src="https://github.com/user-attachments/assets/4c1bc4b0-cbb0-44a4-9e96-f1cddc9759cd" />
+
 # AI DSA Instructor
 
 An AI-powered chatbot that answers Data Structures and Algorithms (DSA) questions from a PDF using Retrieval-Augmented Generation (RAG).
